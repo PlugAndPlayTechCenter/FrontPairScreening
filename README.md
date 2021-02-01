@@ -80,7 +80,7 @@ It can as well respond to additional endpoints you may need, we can use that to 
 
 You can choose where to develop this project. Pick the IDE you are most confortable with. But make sure it runs.
 
-If you are not sure, we recommend forking it on [StackBlitz](stackblitz.com/github/PlugAndPlayTechCenter/FrontPairScreening)
+If you are not sure, we recommend forking it on [StackBlitz](https://stackblitz.com/github/PlugAndPlayTechCenter/FrontPairScreening)
 
 
 # Tasks
