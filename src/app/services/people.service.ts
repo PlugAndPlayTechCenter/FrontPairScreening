@@ -11,7 +11,7 @@ export class PeopleService {
   constructor( private http: HttpClient) { }
 
   //TODO: implement using "https://reqres.in/api/users"
-  getPeople(): Observable<ResultSet<Person> {
+  getPeople(): Observable<ResultSet<Person>> {
     return of(peopleMockData);
   }
 
